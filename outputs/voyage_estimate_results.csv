@@ -1,0 +1,2 @@
+voyage_name,freight_revenue,total_days,bunker_cost,port_costs,canal_costs,other_costs,commission,total_voyage_costs,profit_loss,tce_per_day
+Santos_to_Rotterdam_Supramax,1200000.0,34.0,555520.0,180000.0,45000.0,25000.0,15000.0,820520.0,379480.0,11161.176470588236

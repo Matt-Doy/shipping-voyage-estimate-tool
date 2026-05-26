@@ -1,0 +1,2 @@
+voyage_name,freight_revenue,sea_days,port_days,daily_consumption,bunker_price,port_costs,canal_costs,other_costs,commission_rate
+Santos_to_Rotterdam_Supramax,1200000,28,6,32,620,180000,45000,25000,0.0125
